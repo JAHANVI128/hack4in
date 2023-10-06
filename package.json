@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/JAHANVI128/hack4in#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.5.4"
   },
   "devDependencies": {
     "eslint": "^8.50.0"
