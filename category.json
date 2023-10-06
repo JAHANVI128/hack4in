@@ -1,0 +1,35 @@
+[{
+    "flag": 1,
+    "data": {
+        "name": "coporate",
+        "description": "",
+        "_id": "65207f06ae34e2e268a67b61",
+        "__v": 0
+    },
+    "message": "Category added successfully"
+},{
+    "_id": {
+      "$oid": "65205d649f4707eacd168fe2"
+    },
+    "flag": 1,
+    "data": {
+      "name": "Getogether",
+      "description": "",
+      "_id": "65205b951dc51aa93798fdc1",
+      "__v": 0
+    },
+    "message": "Category added successfully"
+},{
+    "_id": {
+      "$oid": "65207ef29f4707eacd168fe8"
+    },
+    "flag": 1,
+    "data": {
+      "name": "BabyShower",
+      "description": "",
+      "_id": "65207edbae34e2e268a67b5f",
+      "__v": 0
+    },
+    "message": "Category added successfully"
+}]
+    
