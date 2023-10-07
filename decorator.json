@@ -1,0 +1,48 @@
+[
+    {
+      "flag": 1,
+      "data": {
+          "name": "Pavan Mandap Decorators",
+          "type": "Wedding",
+          "description": " Transforming venues with creative decor, specializing in traditional and elegant setups for unforgettable celebrations and events.",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fproduction-next-images-cdn.thumbtack.com%2Fi%2F463625717784231938%2Fdesktop%2Fstandard%2F400square-legacy&tbnid=QB3Tda6IHtciNM&vet=12ahUKEwi-mru8heOBAxX17DgGHYGpA30QMygBegQIARBO..i&imgrefurl=https%3A%2F%2Fwww.thumbtack.com%2Fk%2Fparty-decorators%2Fnear-me&docid=IAgwkHCyoq7DhM&w=400&h=400&q=decorating%20services%20near%20me&ved=2ahUKEwi-mru8heOBAxX17DgGHYGpA30QMygBegQIARBO",
+          "contact": 8574961352,
+          "address": "Satellite",
+          "rating": 3,
+          "budget": 10000,
+          "_id": "6520d74506d6c561a97d4e34",
+          "__v": 0
+      },
+      "message": "Decorator added successfully"
+    },{
+      "flag": 1,
+      "data": {
+          "name": "Memorable Events",
+          "type": "Party",
+          "description": " Crafting unforgettable experiences with meticulous planning and creative design, ensuring each occasion is truly special and memorable.",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fliaison-inc%2Fimage%2Fupload%2Fc_fit%2Cf_auto%2Cq_auto%2Cw_1200%2Fservices%2Ffash%2Fbackgrounds%2Fwedding-decorating.jpg&tbnid=LxyP0gS9P-ealM&vet=12ahUKEwi3qqqnhuOBAxWXfWwGHfVABbAQMyghegUIARCRAQ..i&imgrefurl=https%3A%2F%2Ffash.com%2Fwedding-decorators&docid=BWzp8VTrIASZcM&w=1200&h=800&q=decorating%20services%20near%20me&hl=en&ved=2ahUKEwi3qqqnhuOBAxWXfWwGHfVABbAQMyghegUIARCRAQ",
+          "contact": 8925473010,
+          "address": "Paldi",
+          "rating": 3.6,
+          "budget": 12000,
+          "_id": "6520d80e06d6c561a97d4e36",
+          "__v": 0
+      },
+      "message": "Decorator added successfully"
+    },{
+      "flag": 1,
+      "data": {
+          "name": "D Events",
+          "type": "Birthday",
+          "description": " Crafting bespoke experiences with precision planning, innovative design, and top-notch execution, ensuring memorable and seamless events every time.",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpartydost.com%2Fwp-content%2Fuploads%2F2023%2F01%2FUntitled-design-2023-01-16T155424.240-429x429.webp&tbnid=oiLzDX4UiDamDM&vet=12ahUKEwig5o_ehuOBAxUFQGwGHf_GACoQMygGegQIARBZ..i&imgrefurl=https%3A%2F%2Fpartydost.com%2Fproduct-category%2Fdecoration-services%2Fbirthday-decorations&docid=A7o1ta5wIUW4OM&w=429&h=429&q=decorating%20services%20near%20me&hl=en&ved=2ahUKEwig5o_ehuOBAxUFQGwGHf_GACoQMygGegQIARBZ",
+          "contact": 8996874510,
+          "address": "Maninagr",
+          "rating": 3.9,
+          "budget": 15000,
+          "_id": "6520d8cf06d6c561a97d4e38",
+          "__v": 0
+      },
+      "message": "Decorator added successfully"
+    }
+  ]

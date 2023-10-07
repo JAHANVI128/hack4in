@@ -15,6 +15,10 @@ app.use('/event',categoryRoutes);
 const CatererRoutes = require('./routes/CatererRoutes');
 app.use('/caterer',CatererRoutes);
 
+//Decorator Routes
+const DecoratorRoutes=require("./routes/DecoratorRoutes");
+app.use('/decorator',DecoratorRoutes);
+
 mongoose.connect("mongodb://127.0.0.1:27017/hack4in",{
     useNewUrlParser: true,
     useUnifiedTopology: true,
