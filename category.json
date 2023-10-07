@@ -1,7 +1,16 @@
 [{
     "flag": 1,
     "data": {
-        "name": "coporate",
+        "name": "Birthday Events",
+        "description": "Birthday events celebrate one's birth annually, typically with cakes, gifts, decorations, and gatherings of friends and family, marking personal milestones.",
+        "_id": "6520bb17ff19ad1231c50eea",
+        "__v": 0
+    },
+    "message": "Category added successfully"
+},{
+    "flag": 1,
+    "data": {
+        "name": "Corporate",
         "description": "",
         "_id": "65207f06ae34e2e268a67b61",
         "__v": 0
