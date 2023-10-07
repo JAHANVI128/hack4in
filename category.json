@@ -1,6 +1,7 @@
 [{
     "flag": 1,
     "data": {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd2VdymAwv5o6jIkJ7wQ_WvNQstCQ378b5PV9WozCdcyi-EacqyQgNrr5HewFCt43MLdgAO86aZtSzfqrafoBmeK4m6M9ULZtFD9G9ODLcWkY3yhu4h5rbowk7biaDZ_kActOiU2Asf3DQPUHypp450Q3D-0vuB0B-cqlxH1WIXt4nVgrc0BLQa11Quq7v/s500/Birthday.png",
         "name": "Birthday Events",
         "description": "Birthday events celebrate one's birth annually, typically with cakes, gifts, decorations, and gatherings of friends and family, marking personal milestones.",
         "_id": "6520bb17ff19ad1231c50eea",
@@ -10,8 +11,19 @@
 },{
     "flag": 1,
     "data": {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9ADPg0YhC1iu8El0cx5qp73tWBuLLADHsdIheqh4RwjToYKvIKZVzcVFf7LDfHZWd2GhiXYocTmvkCyiVIHttXsbb8NPFxdh4aHT4ajL1HjosJSkcqNp4HtGD5wZpmLjzoGM75Tyo38d_nt7qRa6459D7zgGrwz7LhzH4IqmwvMp9WKP9lJEQPmbvgGu5/s500/Hackathonn.png",
+        "name": "Hackathon",
+        "description": "Hackathon events are intensive, collaborative competitions where participants innovate, code, and solve problems within a set time frame, fostering creativity and technological solutions.",
+        "_id": "6520bd449972ab7f60436cc5",
+        "__v": 0
+    },
+    "message": "Category added successfully"
+},{
+    "flag": 1,
+    "data": {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtlo4Nm_hCUDrH-mH7mqwyho1AfCYpcvvKtZ9e0I9skUGFeyag-UqrnqX-2OmlHrn7Ebu_BNYBNR0bkPWGi8HZantZyF8rC8mZ5NnqHfx7a_tf-Xcn4IYxS1a6Ilz2sNTe-KRTA6wDeIDKl3xvyY2hO177BPhbpfg8ZB6UA8xI1QuYNuPnQaTrXMuqdMnf/s500/Corporate%20event.png",
         "name": "Corporate",
-        "description": "",
+        "description": "Business-focused gatherings for networking, learning, and celebrating company milestones.",
         "_id": "65207f06ae34e2e268a67b61",
         "__v": 0
     },
@@ -22,8 +34,9 @@
     },
     "flag": 1,
     "data": {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghSS9sBmpyiStH_oTwX92xh1R02An8GXmRX5sk75lfn1I-NC2k43RYr8t7thyoEqtxyTve4kmIY-WM87NttKshohUrbcCTL4PPGJkVoyAnI6OFaRrLJZZXzYJgBANsE4m92p5yQBVpTp3dPdwmxfgE-3TeybldvhksaS9bJ6ekzrBCTwoclaQlgg-O7OCW/s500/Social%20Event.png",
       "name": "Getogether",
-      "description": "",
+      "description": "Casual social gatherings for friends and family.",
       "_id": "65205b951dc51aa93798fdc1",
       "__v": 0
     },
@@ -34,11 +47,11 @@
     },
     "flag": 1,
     "data": {
+        "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRAwumAX0EUsRfHNpiFwVPK6HxhicBTRZ-rcpmZCNklwvC4qb0JOfaoOOsdeJUpytnpQuMNCLXhNHMsaJnR1n6SCFK_qP6V4lCni2oZvLohQ4-I8HaSrS_NrQNuNB7AS58dwIcmwSLTRGxgTFAMiD_bMv09NcRV40yeMTEagiZ14vMEvFKNDl7kcf-ckXe/s500/Wedding.png",
       "name": "BabyShower",
-      "description": "",
+      "description": " Pre-birth celebration with gifts and well-wishes for expectant parents.",
       "_id": "65207edbae34e2e268a67b5f",
       "__v": 0
     },
     "message": "Category added successfully"
 }]
-    
