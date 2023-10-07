@@ -1,0 +1,45 @@
+[
+    {
+      "flag": 1,
+      "data": {
+          "name": "Paani Panghat Caterers",
+          "description": "Paani Panghat Caterers offer exquisite catering services, specializing in authentic Indian cuisine, providing flavorful and memorable dining experiences for events.",
+          "image": "https://www.pexels.com/photo/clear-drinking-glass-beside-of-white-plate-1114427/",
+          "contact": 6581450556,
+          "address": "Bopal-Ambli Road",
+          "rating": 4,
+          "budget": 5000,
+          "_id": "6520c674bb34649727940ef9",
+          "__v": 0
+      },
+      "message": "Caterer added successfully"
+    },{
+      "flag": 1,
+      "data": {
+          "name": "Aroma Avenue Caterers",
+          "description": "Renowned for exquisite catering services, specializing in diverse culinary delights, delivering exceptional dining experiences for memorable occasions.",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn0.weddingwire.in%2Fvendor%2F9105%2F3_2%2F960%2Fjpg%2Fcaterers-royal-spoon-caterers-catering-setup-1_15_399105-164796636429883.jpeg&tbnid=DYjK5N-FLn43lM&vet=12ahUKEwiMrJnA9uKBAxUkoekKHSesAisQMygBegQIARBz..i&imgrefurl=https%3A%2F%2Fwww.weddingwire.in%2Fcaterers%2Froyal-spoon-caterers--e399105&docid=aBOfeybMpxB3tM&w=960&h=640&q=caterers%20img&ved=2ahUKEwiMrJnA9uKBAxUkoekKHSesAisQMygBegQIARBz",
+          "contact": 7552150531,
+          "address": "S.G. Highway",
+          "rating": 3.7,
+          "budget": 5100,
+          "_id": "6520c7abbb34649727940efb",
+          "__v": 0
+      },
+      "message": "Caterer added successfully"
+    },{
+      "flag": 1,
+      "data": {
+          "name": "Open Sky Catering Services",
+          "description": " A top-notch catering company offering diverse menus and impeccable service, making every event a culinary delight.",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.venuebookingz.com%2F636424833-1617950753-wm-sri-mayyasa-caterers-bangalore-9.jpg&tbnid=DPpNnAS05bShZM&vet=12ahUKEwiMrJnA9uKBAxUkoekKHSesAisQMygLegUIARCHAQ..i&imgrefurl=https%3A%2F%2Fwww.venuebookingz.com%2Fcaterers%2Fbangalore%2Fwedding%2F1818&docid=1ma5XNYKVg7uPM&w=782&h=524&q=caterers%20img&ved=2ahUKEwiMrJnA9uKBAxUkoekKHSesAisQMygLegUIARCHAQ",
+          "contact": 9850558713,
+          "address": "Vadaj",
+          "rating": 3.9,
+          "budget": 4800,
+          "_id": "6520c8b4bb34649727940efd",
+          "__v": 0
+      },
+      "message": "Caterer added successfully"
+    }  
+  ]

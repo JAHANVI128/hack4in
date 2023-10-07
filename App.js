@@ -7,9 +7,13 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 // app.use(cors())
 
+//category Routes
 const categoryRoutes = require('./routes/CategoryRoutes');
-
 app.use('/event',categoryRoutes);
+
+//Caterer Routes
+const CatererRoutes = require('./routes/CatererRoutes');
+app.use('/caterer',CatererRoutes);
 
 mongoose.connect("mongodb://127.0.0.1:27017/hack4in",{
     useNewUrlParser: true,
